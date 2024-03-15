@@ -18,6 +18,7 @@ Start the server
 ```
 Environment variables
 ```bash
+PORT = 5000
 MONGO_URL = "mongodb+srv://[username:password@]host[/[defaultauthdb][?options]]"
 JWT_SECRET = "your jwt sectret"
 JWT_EXPIRE = 86400
